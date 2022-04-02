@@ -1,8 +1,8 @@
-# <h3 align="center">𝓥𝓸̃ 𝓗𝓾̛̃𝓾 𝓣𝓱𝓪̆́𝓷𝓰</h3>
+# <h3 align="center">VÕ HỮU THẮNG</h3>
 
 <p align="center">
 	<a href="https://github.com/huuthang28cb">
-	<img src="https://bigdata-vn.com/wp-content/uploads/2021/09/1632269144_986_Hinh-anh-vu-tru-cuc-dep.jpg" width = "600" alt="TNT">
+	<img src="https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" width = "600" alt="TNT">
 	</a>
 </p>
 
