@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/huuthang28cb">
-	<img src="https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" width = "600" alt="TNT">
+	<img src="https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" width = "1000" alt="TNT">
 	</a>
 </p>
 
