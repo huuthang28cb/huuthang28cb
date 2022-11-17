@@ -15,7 +15,7 @@ ReactDOM.render(
   <h1>Gender: Male</h1>,
   <h1>Address: Đắk Lắk, Việt Nam</h1>,
   <h1>University: Trường Đại học Nha Trang - NTU</h1>,
-  <h1>Skill: HTML, CSS, JavaScript, Reactjs, Nodejs</h1>,
+  <h1>Skill: PHP, Laravel, MySql, HTML, CSS, JavaScript</h1>,
   document.getElementById('root')
 );
 ```
